@@ -1,0 +1,85 @@
+body {
+  background-color: #fee1ff;
+  font-family: "Cambria", serif;
+
+}
+
+h1 {
+  text-align: center;
+   color: #bd7bfc;
+}
+
+.bilde {
+  width: 300px;
+  border-radius: 50%;
+  border-color: #ff91fb;
+  border-width: 6px;
+  border-style: outset;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
+   color: #bd7bfc;
+   margin-top: 15px;
+   margin-bottom: 10px;
+}
+
+hr {
+  color: #707dff;
+}
+
+.alder {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.rase {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.klasse {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.alignment {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.kropp {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.forsvar {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+ol {
+  text-align: center;
+  color: #bd7bfc;
+}
+
+p {
+  text-align: center;
+  color: #bd7bfc;
+}
+
+.sitat {
+  color: #ff82bb;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.forfatter {
+  color: #707dff;
+  font-size: 12px;
+  font-style: italic;
+}
